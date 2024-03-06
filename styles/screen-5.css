@@ -518,21 +518,20 @@ body {
   align-items: center;
 }
 .screen-5-BF5 .group-37391-WHM .frame-14-hsV .group-66-ovX {
-  width: 8.6rem!important;
+  width: 7.6rem;
   height: 100%;
   cursor: pointer;
   position: relative;
   background-color: rgba(255, 81, 0, 0.1000000015);
   border-radius: 1.2rem;
   flex-shrink: 0;
-  height: 105px;
 }
 .screen-5-BF5 .group-37391-WHM .frame-14-hsV .group-66-ovX .group-LvT {
   width: 5.4581rem;
   height: 4.8966rem;
   position: absolute;
-  left: 1.6rem;
-  top: 1.6rem;
+  left: 1.2rem;
+  top: 1.4rem;
 }
 .screen-5-BF5 .group-37391-WHM .frame-14-hsV .group-66-ovX .group-LvT .group-fxj {
   width: 5.4581rem;
@@ -925,7 +924,7 @@ body {
   position: absolute;
   left: 2.2rem;
   top: 6rem;
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   font-weight: 400;
   line-height: 2.4285714286;
   color: #1e2742;
@@ -935,7 +934,7 @@ body {
 .screen-5-BF5 .group-37391-WHM .frame-14-hsV .group-65-ZvF {
   box-sizing: border-box;
   padding: 1.7rem 1.3rem 0rem 1.2rem;
-  width: 8.6rem!important;
+  width: 7.6rem;
   height: 100%;
   align-items: center;
   display: flex;
@@ -955,7 +954,7 @@ body {
   width: 4.3001rem;
   height: 3.6rem;
   position: absolute;
-  left: 0;
+  left: -1px;
   top: 0;
 }
 .screen-5-BF5 .group-37391-WHM .frame-14-hsV .group-65-ZvF .group-5tb .group-bc3 .group-XVh {
@@ -1162,7 +1161,7 @@ body {
   vertical-align: top;
 }
 .screen-5-BF5 .group-37391-WHM .frame-14-hsV .group-65-ZvF .matching-U2s {
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   font-weight: 400;
   line-height: 2.4285714286;
   color: #1e2742;
@@ -1171,20 +1170,19 @@ body {
   flex-shrink: 0;
 }
 .screen-5-BF5 .group-37391-WHM .frame-14-hsV .group-64-N8F {
-  width: 8.6rem!important;
+  width: 7.6rem;
   height: 100%;
   position: relative;
   background-color: rgba(255, 81, 0, 0.1000000015);
   border-radius: 1.2rem;
   flex-shrink: 0;
-  height: 105px;
 }
 .screen-5-BF5 .group-37391-WHM .frame-14-hsV .group-64-N8F .capa2-K3V {
   width: 4.2rem;
   height: 4.6002rem;
   position: absolute;
-  left: 2.3rem;
-  top: 1.9rem;
+  left: 1.7rem;
+  top: 1.8rem;
   object-fit: contain;
   vertical-align: top;
 }
@@ -1194,7 +1192,7 @@ body {
   position: absolute;
   left: 1rem;
   top: 6.1rem;
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   font-weight: 400;
   line-height: 2.4285714286;
   color: #1e2742;
@@ -1204,7 +1202,7 @@ body {
 .screen-5-BF5 .group-37391-WHM .frame-14-hsV .group-67-KSo {
   box-sizing: border-box;
   padding: 1.1rem 0.7rem 0rem 0.7rem;
-  width: 8.6rem!important;
+  width: 7.6rem;
   height: 100%;
   align-items: center;
   display: flex;
@@ -1222,7 +1220,7 @@ body {
   flex-shrink: 0;
 }
 .screen-5-BF5 .group-37391-WHM .frame-14-hsV .group-67-KSo .horoscope-ATR {
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   font-weight: 400;
   line-height: 2.4285714286;
   color: #1e2742;
@@ -2611,7 +2609,7 @@ body {
   flex-shrink: 0;
 }
 .screen-5-BF5 .group-37412-wCK .group-37407-P4K .group-37405-VoV .group-37404-v3Z {
-  width: 8rem!important;
+  width: 7.9rem!important;
   height: 100%;
   align-items: center;
   display: flex;
@@ -2626,7 +2624,7 @@ body {
   flex-shrink: 0;
 }
 .screen-5-BF5 .group-37412-wCK .group-37407-P4K .group-37405-VoV .group-37404-v3Z .auto-group-rjym-sDh .w-1-QjR {
-  width: 6.3re!important;
+  width: 6.3rem;
   height: 6.7rem;
   position: absolute;
   left: 0.3rem;
@@ -2635,8 +2633,8 @@ body {
   vertical-align: top;
 }
 .screen-5-BF5 .group-37412-wCK .group-37407-P4K .group-37405-VoV .group-37404-v3Z .auto-group-rjym-sDh .item-86617083969850-1-wjM {
-  width: 6.7rem!important;
-  height: 6.8rem;
+  width: 7.2rem;
+  height: 7.2rem;
   position: absolute;
   left: 0;
   top: 0;
@@ -2854,7 +2852,6 @@ body {
   background-color: #d2d9e0;
   border-radius: 10.3035rem;
 }
-
 
 .slick-prev {
   left: -25px;
